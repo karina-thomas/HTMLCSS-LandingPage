@@ -77,7 +77,7 @@ color: #a0a0a0;
   padding: 0;
 }
 .nav-list {
-  padding: 0;
+  padding-left: 0;
   width: 575px;
   margin-top: 10px;
 }
@@ -93,7 +93,7 @@ color: #a0a0a0;
 .account {
   text-align: right;
   padding: 15px;
-  font-color: #364147;
+  color: #364147;
   font-size: 18px;
 }
 .account a {
